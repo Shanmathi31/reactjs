@@ -1,0 +1,16 @@
+.cre:hover{
+    box-shadow: 0 0 5px black;
+    border: 2px solid #c2e7ff;
+}
+li{
+    list-style: none;
+}
+nav ul li{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+form input{
+    width: 650px;
+}

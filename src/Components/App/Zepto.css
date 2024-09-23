@@ -1,0 +1,25 @@
+.navbar{
+    background-color:blueviolet;
+}
+.aj{
+    width: 200px;
+    height: 80px;
+}
+li{
+    list-style: none;
+}
+.collapse a{
+color: white;
+
+}
+.dj button{
+width: 850px;
+height: 50px;
+text-align: start;
+border-color: white;
+border-radius: 20px;
+}
+.jj{
+    display: flex;
+  justify-content: space-between;
+}
