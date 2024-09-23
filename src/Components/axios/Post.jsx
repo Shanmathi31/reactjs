@@ -49,6 +49,7 @@ export default function Post() {
 
     return (
         <div>
+            <h1>Axios Demo</h1>
             <input type="text" placeholder='enter ur name' name='name' value={name} onChange={(e) => setname(e.target.value)} />
             <br />
             <br />
